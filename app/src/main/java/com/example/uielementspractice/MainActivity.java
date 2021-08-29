@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-
+// komentar kvoli kontrole zapisu na github
     private static String LOG_TAG = "UIElementsPracticeLog";
 
     @Override
